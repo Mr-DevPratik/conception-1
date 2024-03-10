@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0; /* Light gray background */
+}
+
+.post-creation {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #b3b3b3; /* Light gray border */
+    border-radius: 10px;
+    background-color: #e6e6e6; /* Light gray background */
+}
+
+h2 {
+    margin-top: 0;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+input[type="file"] {
+    margin-bottom: 10px;
+}
+
+#publishBtn {
+    background-color: #5e5e5e; /* Dark gray button background */
+    color: #fff;
+    border: none;
+}
+
+.uploaded-file img {
+    max-width: 100%;
+}
+
+/* Additional Styling for Dark Pastel Colors */
+body {
+    background-color: #dcdcdc; /* Light gray background */
+}
+
+.post-creation {
+    border-color: #a9a9a9; /* Dark gray border */
+    background-color: #c0c0c0; /* Medium gray background */
+}
+
+#publishBtn {
+    background-color: #778899; /* Light slate gray button background */
+}
